@@ -1,4 +1,4 @@
-Hi, I’m @hgergo19
+Hi, I’m Gergo!
 
 I started learning java to change carreer and strat working in software developement. 
 I am interested in backend developement. A am currently learning some java script @freeCodeCamp.org 
